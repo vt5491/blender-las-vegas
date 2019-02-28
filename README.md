@@ -5,4 +5,5 @@ Just having a little bit of fun modelling some Las Vegas hotels using blender.
 
 ![mirage_render](assets/mirage_render_screen_shot.png)
 
-![aria_neon_sign](assets/aria_neon_sign.png)
+<img src="assets/aria_neon_sign.png" style="height: 50%; width: 50%" />
+<!-- ![aria_neon_sign](assets/aria_neon_sign.png) -->

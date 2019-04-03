@@ -9,3 +9,6 @@ Just having a little bit of fun modelling some Las Vegas hotels using blender.
 ![aria_neon_sign](assets/aria_neon_sign.png)
 
 ![ph_overview](hotels/planet_hollywood/renders/overview.png)
+
+![temple_pool caesars palace](hotels/caesars_palace/renders/cycles_overview.png)
+Temple Pool, Caesar's Palace.

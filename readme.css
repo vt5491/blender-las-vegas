@@ -1,0 +1,15 @@
+.fixed_size_img {
+  display: block;
+  max-width:200px;
+  max-height: 200px;
+  width: auto;
+  height: auto;
+}
+
+img[src~="fixed_size_img_2"] {
+  display: block;
+  max-width:200px;
+  max-height: 200px;
+  width: auto;
+  height: auto;
+}

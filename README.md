@@ -3,8 +3,7 @@
 <head>
 <link rel="stylesheet" type="text/css" href="/readme.css">
 </head>
-<style>
-<!-- .fixed_size_img_2 { -->
+<!-- <style>
 img[src~="fixed_size_img_2"]
   display: block;
   max-width:200px;
@@ -12,17 +11,18 @@ img[src~="fixed_size_img_2"]
   width: auto;
   height: auto;
 }
-</style>
+</style> -->
 
 # blender-las-vegas
-Just having a little bit of fun modelling some Las Vegas hotels using blender.
+Just having a little bit of fun modelling some Las Vegas (and Dubai) hotels using Blender 2.8.  Entries at the top are my earlier attempts, while the ones at the bottom are my later attempts.  Hopefully you'll notice an increase in complexity and improvement in quality as you move down, mirroring the progression of my Blender skills.
 
 ![Encore Hotel](assets/encore_screen_shot.png)
 
 ![mirage_render](assets/mirage_render_screen_shot.png)
 
 <!-- <img src="assets/aria_neon_sign.png" style="height: 50%; width: 50%" /> -->
-![aria_neon_sign](assets/aria_neon_sign.png)
+<img src="assets/aria_neon_sign.png" height="800" />
+<!-- ![aria_neon_sign](assets/aria_neon_sign.png) -->
 
 ![ph_overview](hotels/planet_hollywood/renders/overview.png)
 

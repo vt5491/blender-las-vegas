@@ -1,0 +1,6 @@
+Best export formats for Godot and Unity
+
+Asset        Godot    Unity
+Encore       glb
+Mirage       glb
+Temple Pool  dae

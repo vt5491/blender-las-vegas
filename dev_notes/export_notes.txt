@@ -1,9 +1,15 @@
 Best export formats for Godot and Unity
 
 Asset        Godot    Unity
-Encore       glb
-Mirage       glb
-Temple Pool  dae
-ph           dae (1)
+Aria Sign    glb
+Encore       dae (so) dae
+Mirage       glb      dae
+Temple Pool  dae (2)  dae
+ph           dae (1)  dae
+burj_al_arab either   dae
 
 *1 on ph, dae at least runs as long as you don't limit to selected objects, but it doesn't even show properly in Godot -- just two weird blobs.
+
+so= selected only
+
+*2 selected only, don't include rigging

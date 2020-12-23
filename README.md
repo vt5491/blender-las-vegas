@@ -39,3 +39,8 @@ Burj Al Arab Hotel, Dubai.
 <img src="hotels/burj_al_arab/renders/ariel_shot.png" height="400"> </img>
 <img src="hotels/burj_al_arab/renders/behind_shot.png" height="400"> </img>
 <img src="hotels/burj_al_arab/renders/closeup.png" height="400"> </img>
+
+![power_slave_eddie](hotels/power_slave_pyramid/renders/power_slave_eddie.png)
+Eddie, Power Slave Pyramid (Iron Maiden).
+![power_slave_eddie](hotels/power_slave_pyramid/renders/power_slave_panorama.png)
+Eddie, Power Slave Pyramid (Iron Maiden).

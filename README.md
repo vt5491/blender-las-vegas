@@ -43,4 +43,4 @@ Burj Al Arab Hotel, Dubai.
 ![power_slave_eddie](hotels/power_slave_pyramid/renders/power_slave_eddie.png)
 Eddie, Power Slave Pyramid (Iron Maiden).
 ![power_slave_eddie](hotels/power_slave_pyramid/renders/power_slave_panorama.png)
-Eddie, Power Slave Pyramid (Iron Maiden).
+Panorama View, Power Slave Pyramid.
